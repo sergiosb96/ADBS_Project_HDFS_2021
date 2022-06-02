@@ -1,8 +1,8 @@
 ﻿# ADBS_Project_HDFS_2021
 
 ## Project for "Advanced Databases" course of ECE NTUA 2021 - 2022
-Provided description of assignment in greek: [Εκφώνηση 2021-2022.pdf]
-Submited report in greek: [Report.pdf]
+Provided description of assignment in greek: [Εκφώνηση 2021-2022](Εκφώνηση 2021-2022.pdf)
+Submited report in greek: [Report](Report.pdf)
 
 The Project was graded with 97/100
 
